@@ -37,7 +37,7 @@ const [myModal, setMyModal] = useState(false)
 **`<Modal/>` params:**
 - name: *id* of your alert title use to define *Aria*
 - showClose: Boolean use to show or hide cross close button (`true` by default)
-- show: Boolean state use to show and hide your alert
+- show: Boolean state use to show and hide your modal
 - setShow: function that updates your state
 
 
