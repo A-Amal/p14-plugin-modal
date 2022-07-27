@@ -3,7 +3,7 @@ The `p14-plugin-modal` as its name suggests, is a plugins developed as part of m
 It is a React plugin allowing to display a modal alert, for more information go to the section "How the plugin works"
 ## Installation
 ```
-$ npm install --save p14-plugin-modal
+$ npm install --save @aamal/p14-plugin-modale
 $ yarn add p14-plugin-modal
 ```
 
