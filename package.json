@@ -1,6 +1,13 @@
 {
   "name": "p14-plugin-modale",
+  "author": "Abdelkafi Amal",
+  "homepage": "https://github.com/A-Amal/p14-plugin-modal",
   "version": "0.1.0",
+  "tags": [
+    "react",
+    "modal",
+    "dialog"
+  ],
   "dependencies": {
     "@babel/runtime": "^7.18.9",
     "@testing-library/jest-dom": "^5.16.4",
