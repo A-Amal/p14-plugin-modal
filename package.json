@@ -2,11 +2,18 @@
   "name": "@aamal/p14-plugin-modale",
   "author": "Abdelkafi Amal",
   "homepage": "https://github.com/A-Amal/p14-plugin-modal",
-  "version": "0.1.0",
+  "version": "0.1.8",
   "tags": [
     "react",
     "modal",
     "dialog"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "modale",
+    "plugin",
+    "npm"
   ],
   "dependencies": {
     "@babel/runtime": "^7.18.9",
@@ -52,6 +59,7 @@
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-react": "^7.16.0",
+    "@testing-library/dom": "^8.16.0",
     "babel-cli": "^6.26.0"
   },
   "main": "dist/index.js",
